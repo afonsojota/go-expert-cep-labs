@@ -2,4 +2,4 @@
 Sistema de temperatura por CEP
 
 ## Rodando em Google Cloud Run:
-https://go-experts-lab-temperatura-5y6su7iqaq-uc.a.run.app/api/temperatura?cep=01002020
+https://go-expert-cep-labs-w675pow6yq-uc.a.run.app/api/temperatura?cep=09320360
